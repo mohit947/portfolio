@@ -109,7 +109,7 @@ export default function Hero() {
               >
                 Mohit
                 <br />
-                <span className="section-title text-7xl lg:text-6xl xl:text-7xl" style={{color: "#00ff88"}}>Kumar</span> Jalan
+                <span className="section-title text-5xl lg:text-6xl xl:text-7xl" style={{color: "#00ff88"}}>Kumar</span> Jalan
               </h1>
             </div>
 
